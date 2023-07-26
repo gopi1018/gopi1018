@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gopi1018
-- 👀 I’m interested in MERN stack
+- 👀 I’m interested in MERN,Frontend
 - 🌱 I’m currently MERN stack
 - 📫 How to reach me billagopi0@gmail.com
 
